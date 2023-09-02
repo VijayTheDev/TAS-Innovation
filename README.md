@@ -5,7 +5,7 @@ Explore my internship journey at TAS Innovation through these projects: a Tribut
 ## Table of Contents
 
 - [Demo](#demo)
-- [Project Descriptions](#project_descriptions)
+- [Project Descriptions](#project-descriptions)
 - [License](#license)
 
 ## Demo
@@ -16,7 +16,7 @@ You can see a live demo of this project by following these links:
 - [Portfolio Page](https://vijaythedev.github.io/TAS-Innovation/portfolio/index.html)
 - [Google Clone Page](https://vijaythedev.github.io/TAS-Innovation/Google%20Clone/index.html)
 
-## Project Descriptions
+## Project-Descriptions
 
 ### Task 1: Tribute Page
 
