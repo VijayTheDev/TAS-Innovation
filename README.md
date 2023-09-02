@@ -5,7 +5,7 @@ Explore my internship journey at TAS Innovation through these projects: a Tribut
 ## Table of Contents
 
 - [Demo](#demo)
-- [Project Descriptions](#projectdescriptions)
+- [Project Descriptions](#project_descriptions)
 - [License](#license)
 
 ## Demo
